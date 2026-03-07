@@ -14,7 +14,7 @@
 
 🔐 Computer Science Engineering student specializing in **Cybersecurity**
 
-🚀 Passionate about **Ethical Hacking, Threat Detection and Secure Systems**
+🚀 Passionate about **Ethical Hacking, Threat Detection, and Secure Systems**
 
 🧠 Currently learning **Network Security, Penetration Testing and Security Automation**
 
@@ -28,11 +28,11 @@
 
 ### 🔹 Verifyr
 
-AI-powered document verification platform capable of extracting text from uploaded documents and detecting sensitive information for secure verification workflows.
+AI-powered document verification system that extracts text from uploaded documents and detects sensitive information automatically.
 
 ### 🔹 Redact AI
 
-AI system that detects and automatically **redacts Personally Identifiable Information (PII)** from documents to ensure privacy and safe document sharing.
+AI-based system that detects and automatically **redacts Personally Identifiable Information (PII)** from documents to ensure privacy and safe sharing.
 
 ---
 
@@ -60,9 +60,9 @@ AI system that detects and automatically **redacts Personally Identifiable Infor
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreshth1303&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shreshth1303&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshth1303&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshth1303&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -72,7 +72,7 @@ AI system that detects and automatically **redacts Personally Identifiable Infor
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreshth1303&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Shreshth1303&theme=tokyonight"/>
 
 </p>
 
